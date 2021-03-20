@@ -1,0 +1,63 @@
+---
+title: "ASA CCD Portfolio"
+author: "Dr Esther M Pearson"
+date: "March 20, 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+![Dr. Esther Pearson](/Users/Esther Pearson/Desktop/ESTHER/EPearson-1.jpg)
+
+Dr. Esther Pearson is a Statistician, Technologist, and Researcher. She is a thought leader in Mathematics and Data Analytics. Her tenure in Higher Education includes fifteen years as a full-time and thirteen years as an adjunct professor in the New England College and University systems, as well as, in international higher education systems. She has a long history of book and article publications. Most recently, publications for the American Statistical Association, International Conference of The Mathematics Education for the Future Project, and Advances in Intelligent Computing. She was named "2019 Deserving Scholar" by the 15th International Conference of the Mathematics Education for the Future Project, Theory and Practice: An Interface or A Great Divide" conference at Maynooth University, Kildare, Ireland. Google also named her to the 2018 Google Institute for professors and has funded her research in "Using the Google Cloud Platform for Biostatistics Data Analysis with SAS Programming" from a Virtual Machine.
+
+She has completed a successful career in High Tech in the Massachusetts area, achieving the position of Senior Engineering Director at a fortune 500 company before transitioning into Higher Education. In addition to her academic career, she has participated as a STEM consultant to the US Department of Labor Women's Bureau; an Appointed Commissioner by Massachusetts Gov. Deval Patrick for the Freedom's Way Heritage Commission; and as an elected local town official in Middlesex County, Massachusetts.
+
+Dr. Pearson's Teaching Philosophy is: "I believe in teaching to help students construct knowledge. This entails making statements and asking directive and thought-shaping questions so students, through their answers and feedback, are able to construct what they know and learn. Students are best servest by an education that allows them to build upon what they know by anchoring their previous knowledge and experience to new information. Making these connections goes a long way in retaining what they have learned and then applying it to new and everyday situations. This also gives them a foundation and structure to be life-long learners."
+
+## Educational Training
+Certification in Quantitative Public Health - NYU School of Global Public Health
+
+Certification in Biostatistics - University of Californial, San Diego
+
+Doctorate in Education - University of Massachusetts, Lowell
+
+Master Science Engineering Management - Western New England College, Springfield
+
+Bachelor of Applied Science, Electrical Engineering, Youngstown State University, Ohio
+
+## Research Areas
+Google Cloud Platform for Database Storage
+
+Virtual Machines for Biostatistics
+
+Biostatistics in Biomedicine and Informatics
+
+STEM Pedagogy and Curriculum Development
+
+
+## Grants
+Google
+
+AAUW
+
+Packard
+
+## Badges
+SAS Programming
+
+Google Cloud Platform Essentials
+
+SAS Anova, Regression and Logistics Regression
+
+SQL for Big Query and Cloud SQL
+
+## Publications
+"STEPS to STEM", Intelligent Computing
+
+"Invisible Mathematics", Xlibris
+
+"Mathematics of Blood Quantum"
+
+"Non Parametric Data in Biostatistics", ASA Newsletter
